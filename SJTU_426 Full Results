@@ -1,0 +1,481 @@
+SJTU_426
+.\TCGA-2Z-A9JG-01Z-00-DX1\TCGA-2Z-A9JG-01Z-00-DX1_1\Neutrophil\3_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-2Z-A9JG-01Z-00-DX1\\TCGA-2Z-A9JG-01Z-00-DX1_1/Neutrophil\\1.mat']
+0.49800627085341115
+.\TCGA-2Z-A9JG-01Z-00-DX1\TCGA-2Z-A9JG-01Z-00-DX1_2\Neutrophil\8_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-2Z-A9JG-01Z-00-DX1\\TCGA-2Z-A9JG-01Z-00-DX1_2/Neutrophil\\2.mat']
+0.884953361392333
+.\TCGA-2Z-A9JG-01Z-00-DX1\TCGA-2Z-A9JG-01Z-00-DX1_3\Neutrophil\13_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-2Z-A9JG-01Z-00-DX1\\TCGA-2Z-A9JG-01Z-00-DX1_3/Neutrophil\\5.mat']
+0.6879166684040394
+.\TCGA-2Z-A9JG-01Z-00-DX1\TCGA-2Z-A9JG-01Z-00-DX1_4\Epithelial\16_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-2Z-A9JG-01Z-00-DX1\\TCGA-2Z-A9JG-01Z-00-DX1_4/Epithelial\\6.mat']
+0.749262583382632
+.\TCGA-2Z-A9JG-01Z-00-DX1\TCGA-2Z-A9JG-01Z-00-DX1_5\Lymphocyte\22_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-2Z-A9JG-01Z-00-DX1\\TCGA-2Z-A9JG-01Z-00-DX1_5/Lymphocyte\\9.mat']
+0.7764536434458829
+.\TCGA-2Z-A9JG-01Z-00-DX1\TCGA-2Z-A9JG-01Z-00-DX1_6\Epithelial\26_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-2Z-A9JG-01Z-00-DX1\\TCGA-2Z-A9JG-01Z-00-DX1_6/Epithelial\\10.mat']
+0.6795267575758953
+.\TCGA-2Z-A9JG-01Z-00-DX1\TCGA-2Z-A9JG-01Z-00-DX1_6\Lymphocyte\27_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-2Z-A9JG-01Z-00-DX1\\TCGA-2Z-A9JG-01Z-00-DX1_6/Lymphocyte\\11.mat']
+0.38075071325851917
+.\TCGA-2Z-A9JG-01Z-00-DX1\TCGA-2Z-A9JG-01Z-00-DX1_6\Macrophage\29_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-2Z-A9JG-01Z-00-DX1\\TCGA-2Z-A9JG-01Z-00-DX1_6/Macrophage\\12.mat']
+0.5655692657174526
+.\TCGA-2Z-A9JG-01Z-00-DX1\TCGA-2Z-A9JG-01Z-00-DX1_6\Neutrophil\28_mask.mat
+0
+.\TCGA-2Z-A9JN-01Z-00-DX1\TCGA-2Z-A9JN-01Z-00-DX1_1\Lymphocyte\32_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-2Z-A9JN-01Z-00-DX1\\TCGA-2Z-A9JN-01Z-00-DX1_1/Lymphocyte\\14.mat']
+0.6716333678966733
+.\TCGA-2Z-A9JN-01Z-00-DX1\TCGA-2Z-A9JN-01Z-00-DX1_2\Epithelial\36_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-2Z-A9JN-01Z-00-DX1\\TCGA-2Z-A9JN-01Z-00-DX1_2/Epithelial\\15.mat']
+0.5462752183189036
+.\TCGA-2Z-A9JN-01Z-00-DX1\TCGA-2Z-A9JN-01Z-00-DX1_3\Neutrophil\43_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-2Z-A9JN-01Z-00-DX1\\TCGA-2Z-A9JN-01Z-00-DX1_3/Neutrophil\\17.mat']
+0.0
+.\TCGA-2Z-A9JN-01Z-00-DX1\TCGA-2Z-A9JN-01Z-00-DX1_4\Macrophage\49_mask.mat
+0
+.\TCGA-49-6743-01Z-00-DX2\TCGA-49-6743-01Z-00-DX2_001\Lymphocyte\52_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-49-6743-01Z-00-DX2\\TCGA-49-6743-01Z-00-DX2_001/Lymphocyte\\21.mat']
+0.6254228066300274
+.\TCGA-49-6743-01Z-00-DX2\TCGA-49-6743-01Z-00-DX2_001\Macrophage\54_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-49-6743-01Z-00-DX2\\TCGA-49-6743-01Z-00-DX2_001/Macrophage\\22.mat']
+0.4431122037389116
+.\TCGA-49-6743-01Z-00-DX2\TCGA-49-6743-01Z-00-DX2_001\Neutrophil\53_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-49-6743-01Z-00-DX2\\TCGA-49-6743-01Z-00-DX2_001/Neutrophil\\23.mat']
+0.5562632696390658
+.\TCGA-49-6743-01Z-00-DX2\TCGA-49-6743-01Z-00-DX2_002\Lymphocyte\57_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-49-6743-01Z-00-DX2\\TCGA-49-6743-01Z-00-DX2_002/Lymphocyte\\24.mat']
+0.36164692487457667
+.\TCGA-49-6743-01Z-00-DX2\TCGA-49-6743-01Z-00-DX2_002\Neutrophil\58_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-49-6743-01Z-00-DX2\\TCGA-49-6743-01Z-00-DX2_002/Neutrophil\\25.mat']
+0.3387651146204249
+.\TCGA-49-6743-01Z-00-DX2\TCGA-49-6743-01Z-00-DX2_003\Lymphocyte\62_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-49-6743-01Z-00-DX2\\TCGA-49-6743-01Z-00-DX2_003/Lymphocyte\\27.mat']
+0.7029108762679712
+.\TCGA-49-6743-01Z-00-DX2\TCGA-49-6743-01Z-00-DX2_003\Neutrophil\63_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-49-6743-01Z-00-DX2\\TCGA-49-6743-01Z-00-DX2_003/Neutrophil\\28.mat']
+0.47996089931573804
+.\TCGA-49-6743-01Z-00-DX2\TCGA-49-6743-01Z-00-DX2_004\Epithelial\66_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-49-6743-01Z-00-DX2\\TCGA-49-6743-01Z-00-DX2_004/Epithelial\\29.mat']
+0.7439219620691842
+.\TCGA-49-6743-01Z-00-DX2\TCGA-49-6743-01Z-00-DX2_004\Lymphocyte\67_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-49-6743-01Z-00-DX2\\TCGA-49-6743-01Z-00-DX2_004/Lymphocyte\\30.mat']
+0.09956709956709957
+.\TCGA-49-6743-01Z-00-DX2\TCGA-49-6743-01Z-00-DX2_005\Epithelial\71_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-49-6743-01Z-00-DX2\\TCGA-49-6743-01Z-00-DX2_005/Epithelial\\31.mat']
+0.7110796722075958
+.\TCGA-49-6743-01Z-00-DX2\TCGA-49-6743-01Z-00-DX2_005\Lymphocyte\72_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-49-6743-01Z-00-DX2\\TCGA-49-6743-01Z-00-DX2_005/Lymphocyte\\32.mat']
+0.3992282446726091
+.\TCGA-50-6591-01Z-00-DX1\TCGA-50-6591-01Z-00-DX1_001\Epithelial\76_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-50-6591-01Z-00-DX1\\TCGA-50-6591-01Z-00-DX1_001/Epithelial\\33.mat']
+0.6386073085142103
+.\TCGA-50-6591-01Z-00-DX1\TCGA-50-6591-01Z-00-DX1_001\Lymphocyte\77_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-50-6591-01Z-00-DX1\\TCGA-50-6591-01Z-00-DX1_001/Lymphocyte\\34.mat']
+0.3559870550161812
+.\TCGA-55-7570-01Z-00-DX1\TCGA-55-7570-01Z-00-DX1_001\Lymphocyte\82_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-55-7570-01Z-00-DX1\\TCGA-55-7570-01Z-00-DX1_001/Lymphocyte\\36.mat']
+0.69240219195325
+.\TCGA-55-7570-01Z-00-DX1\TCGA-55-7570-01Z-00-DX1_002\Lymphocyte\87_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-55-7570-01Z-00-DX1\\TCGA-55-7570-01Z-00-DX1_002/Lymphocyte\\37.mat']
+0.7633928571428571
+.\TCGA-55-7570-01Z-00-DX1\TCGA-55-7570-01Z-00-DX1_002\Macrophage\89_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-55-7570-01Z-00-DX1\\TCGA-55-7570-01Z-00-DX1_002/Macrophage\\38.mat']
+0.7981452838046675
+.\TCGA-55-7573-01Z-00-DX1\TCGA-55-7573-01Z-00-DX1_001\Lymphocyte\92_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-55-7573-01Z-00-DX1\\TCGA-55-7573-01Z-00-DX1_001/Lymphocyte\\40.mat']
+0.8592964824120602
+.\TCGA-55-7573-01Z-00-DX1\TCGA-55-7573-01Z-00-DX1_001\Macrophage\94_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-55-7573-01Z-00-DX1\\TCGA-55-7573-01Z-00-DX1_001/Macrophage\\41.mat']
+0.6836341531795144
+.\TCGA-55-7573-01Z-00-DX1\TCGA-55-7573-01Z-00-DX1_002\Neutrophil\98_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-55-7573-01Z-00-DX1\\TCGA-55-7573-01Z-00-DX1_002/Neutrophil\\42.mat']
+0.8428715033910545
+.\TCGA-55-7573-01Z-00-DX1\TCGA-55-7573-01Z-00-DX1_003\Lymphocyte\102_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-55-7573-01Z-00-DX1\\TCGA-55-7573-01Z-00-DX1_003/Lymphocyte\\44.mat']
+0.6903823303939436
+.\TCGA-55-7573-01Z-00-DX1\TCGA-55-7573-01Z-00-DX1_004\Epithelial\106_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-55-7573-01Z-00-DX1\\TCGA-55-7573-01Z-00-DX1_004/Epithelial\\45.mat']
+0.6021116853326158
+.\TCGA-55-7573-01Z-00-DX1\TCGA-55-7573-01Z-00-DX1_004\Lymphocyte\107_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-55-7573-01Z-00-DX1\\TCGA-55-7573-01Z-00-DX1_004/Lymphocyte\\46.mat']
+0.28276718296343295
+.\TCGA-73-4662-01Z-00-DX1\TCGA-73-4662-01Z-00-DX1_001\Lymphocyte\112_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-73-4662-01Z-00-DX1\\TCGA-73-4662-01Z-00-DX1_001/Lymphocyte\\49.mat']
+0.7545769356789703
+.\TCGA-73-4662-01Z-00-DX1\TCGA-73-4662-01Z-00-DX1_002\Neutrophil\118_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-73-4662-01Z-00-DX1\\TCGA-73-4662-01Z-00-DX1_002/Neutrophil\\51.mat']
+0.7775428225551467
+.\TCGA-73-4662-01Z-00-DX1\TCGA-73-4662-01Z-00-DX1_003\Epithelial\121_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-73-4662-01Z-00-DX1\\TCGA-73-4662-01Z-00-DX1_003/Epithelial\\52.mat']
+0.6170600234635297
+.\TCGA-73-4662-01Z-00-DX1\TCGA-73-4662-01Z-00-DX1_003\Lymphocyte\122_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-73-4662-01Z-00-DX1\\TCGA-73-4662-01Z-00-DX1_003/Lymphocyte\\53.mat']
+0.37428736617749947
+.\TCGA-78-7152-01Z-00-DX1\TCGA-78-7152-01Z-00-DX1_001\Lymphocyte\127_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-78-7152-01Z-00-DX1\\TCGA-78-7152-01Z-00-DX1_001/Lymphocyte\\55.mat']
+0.4512950933547546
+.\TCGA-78-7152-01Z-00-DX1\TCGA-78-7152-01Z-00-DX1_001\Neutrophil\128_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-78-7152-01Z-00-DX1\\TCGA-78-7152-01Z-00-DX1_001/Neutrophil\\57.mat']
+0.4469160524182071
+.\TCGA-78-7152-01Z-00-DX1\TCGA-78-7152-01Z-00-DX1_002\Lymphocyte\132_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-78-7152-01Z-00-DX1\\TCGA-78-7152-01Z-00-DX1_002/Lymphocyte\\58.mat']
+0.7509727626459144
+.\TCGA-78-7152-01Z-00-DX1\TCGA-78-7152-01Z-00-DX1_002\Macrophage\134_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-78-7152-01Z-00-DX1\\TCGA-78-7152-01Z-00-DX1_002/Macrophage\\59.mat']
+0.822764566708519
+.\TCGA-A2-A04X-01Z-00-DX1\TCGA-A2-A04X-01Z-00-DX1_001\Epithelial\136_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-A2-A04X-01Z-00-DX1\\TCGA-A2-A04X-01Z-00-DX1_001/Epithelial\\60.mat']
+0.37603577039008307
+.\TCGA-A2-A04X-01Z-00-DX1\TCGA-A2-A04X-01Z-00-DX1_001\Lymphocyte\137_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-A2-A04X-01Z-00-DX1\\TCGA-A2-A04X-01Z-00-DX1_001/Lymphocyte\\61.mat']
+0.69076835304952
+.\TCGA-A2-A04X-01Z-00-DX1\TCGA-A2-A04X-01Z-00-DX1_002\Epithelial\141_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-A2-A04X-01Z-00-DX1\\TCGA-A2-A04X-01Z-00-DX1_002/Epithelial\\62.mat']
+0.5296484064077933
+.\TCGA-A2-A04X-01Z-00-DX1\TCGA-A2-A04X-01Z-00-DX1_002\Macrophage\144_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-A2-A04X-01Z-00-DX1\\TCGA-A2-A04X-01Z-00-DX1_002/Macrophage\\64.mat']
+0.1549764826684649
+.\TCGA-A2-A04X-01Z-00-DX1\TCGA-A2-A04X-01Z-00-DX1_003\Neutrophil\148_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-A2-A04X-01Z-00-DX1\\TCGA-A2-A04X-01Z-00-DX1_003/Neutrophil\\67.mat']
+0.41297935103244837
+.\TCGA-A2-A04X-01Z-00-DX1\TCGA-A2-A04X-01Z-00-DX1_004\Epithelial\151_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-A2-A04X-01Z-00-DX1\\TCGA-A2-A04X-01Z-00-DX1_004/Epithelial\\68.mat']
+0.7525579568896741
+.\TCGA-A2-A0ES-01Z-00-DX1\TCGA-A2-A0ES-01Z-00-DX1_001\Lymphocyte\157_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-A2-A0ES-01Z-00-DX1\\TCGA-A2-A0ES-01Z-00-DX1_001/Lymphocyte\\71.mat']
+0.7482075129122077
+.\TCGA-A2-A0ES-01Z-00-DX1\TCGA-A2-A0ES-01Z-00-DX1_002\Epithelial\161_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-A2-A0ES-01Z-00-DX1\\TCGA-A2-A0ES-01Z-00-DX1_002/Epithelial\\72.mat']
+0.6631791999605527
+.\TCGA-A2-A0ES-01Z-00-DX1\TCGA-A2-A0ES-01Z-00-DX1_003\Neutrophil\168_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-A2-A0ES-01Z-00-DX1\\TCGA-A2-A0ES-01Z-00-DX1_003/Neutrophil\\74.mat']
+0.7444756843937306
+.\TCGA-A2-A0ES-01Z-00-DX1\TCGA-A2-A0ES-01Z-00-DX1_004\Lymphocyte\172_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-A2-A0ES-01Z-00-DX1\\TCGA-A2-A0ES-01Z-00-DX1_004/Lymphocyte\\75.mat']
+0.5714285714285714
+.\TCGA-A2-A0ES-01Z-00-DX1\TCGA-A2-A0ES-01Z-00-DX1_004\Macrophage\174_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-A2-A0ES-01Z-00-DX1\\TCGA-A2-A0ES-01Z-00-DX1_004/Macrophage\\76.mat']
+0.6668229535242743
+.\TCGA-D8-A3Z6-01Z-00-DX2\TCGA-D8-A3Z6-01Z-00-DX2_001\Lymphocyte\177_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-D8-A3Z6-01Z-00-DX2\\TCGA-D8-A3Z6-01Z-00-DX2_001/Lymphocyte\\78.mat']
+0.8096953972791304
+.\TCGA-D8-A3Z6-01Z-00-DX2\TCGA-D8-A3Z6-01Z-00-DX2_002\Epithelial\181_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-D8-A3Z6-01Z-00-DX2\\TCGA-D8-A3Z6-01Z-00-DX2_002/Epithelial\\79.mat']
+0.8330874984466522
+.\TCGA-D8-A3Z6-01Z-00-DX2\TCGA-D8-A3Z6-01Z-00-DX2_002\Lymphocyte\182_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-D8-A3Z6-01Z-00-DX2\\TCGA-D8-A3Z6-01Z-00-DX2_002/Lymphocyte\\80.mat']
+0.44723624081880514
+.\TCGA-D8-A3Z6-01Z-00-DX2\TCGA-D8-A3Z6-01Z-00-DX2_003\Lymphocyte\187_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-D8-A3Z6-01Z-00-DX2\\TCGA-D8-A3Z6-01Z-00-DX2_003/Lymphocyte\\82.mat']
+0.8020441599114354
+.\TCGA-D8-A3Z6-01Z-00-DX2\TCGA-D8-A3Z6-01Z-00-DX2_003\Neutrophil\188_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-D8-A3Z6-01Z-00-DX2\\TCGA-D8-A3Z6-01Z-00-DX2_003/Neutrophil\\83.mat']
+0.23019634394041977
+.\TCGA-D8-A3Z6-01Z-00-DX2\TCGA-D8-A3Z6-01Z-00-DX2_004\Lymphocyte\192_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-D8-A3Z6-01Z-00-DX2\\TCGA-D8-A3Z6-01Z-00-DX2_004/Lymphocyte\\84.mat']
+0.8428105456516191
+.\TCGA-DW-7838-01Z-00-DX1\TCGA-DW-7838-01Z-00-DX1_1\Lymphocyte\197_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-DW-7838-01Z-00-DX1\\TCGA-DW-7838-01Z-00-DX1_1/Lymphocyte\\86.mat']
+0.6898082334969086
+.\TCGA-DW-7838-01Z-00-DX1\TCGA-DW-7838-01Z-00-DX1_2\Epithelial\201_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-DW-7838-01Z-00-DX1\\TCGA-DW-7838-01Z-00-DX1_2/Epithelial\\87.mat']
+0.7195945270668009
+.\TCGA-DW-7838-01Z-00-DX1\TCGA-DW-7838-01Z-00-DX1_2\Lymphocyte\202_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-DW-7838-01Z-00-DX1\\TCGA-DW-7838-01Z-00-DX1_2/Lymphocyte\\88.mat']
+0.3217194607081946
+.\TCGA-DW-7838-01Z-00-DX1\TCGA-DW-7838-01Z-00-DX1_3\Macrophage\209_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-DW-7838-01Z-00-DX1\\TCGA-DW-7838-01Z-00-DX1_3/Macrophage\\90.mat']
+0.26210876027277497
+.\TCGA-DW-7838-01Z-00-DX1\TCGA-DW-7838-01Z-00-DX1_4\Neutrophil\213_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-DW-7838-01Z-00-DX1\\TCGA-DW-7838-01Z-00-DX1_4/Neutrophil\\91.mat']
+0.49480622004134583
+.\TCGA-DW-7838-01Z-00-DX1\TCGA-DW-7838-01Z-00-DX1_5\Neutrophil\218_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-DW-7838-01Z-00-DX1\\TCGA-DW-7838-01Z-00-DX1_5/Neutrophil\\93.mat']
+0.31189710610932475
+.\TCGA-DW-7963-01Z-00-DX1\TCGA-DW-7963-01Z-00-DX1_1\Lymphocyte\222_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-DW-7963-01Z-00-DX1\\TCGA-DW-7963-01Z-00-DX1_1/Lymphocyte\\95.mat']
+0.6857859843001564
+.\TCGA-DW-7963-01Z-00-DX1\TCGA-DW-7963-01Z-00-DX1_2\Lymphocyte\227_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-DW-7963-01Z-00-DX1\\TCGA-DW-7963-01Z-00-DX1_2/Lymphocyte\\96.mat']
+0.7391304347826086
+.\TCGA-DW-7963-01Z-00-DX1\TCGA-DW-7963-01Z-00-DX1_2\Neutrophil\228_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-DW-7963-01Z-00-DX1\\TCGA-DW-7963-01Z-00-DX1_2/Neutrophil\\97.mat']
+0.7503876717340098
+.\TCGA-DW-7963-01Z-00-DX1\TCGA-DW-7963-01Z-00-DX1_3\Lymphocyte\232_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-DW-7963-01Z-00-DX1\\TCGA-DW-7963-01Z-00-DX1_3/Lymphocyte\\99.mat']
+0.49515287099179717
+.\TCGA-DW-7963-01Z-00-DX1\TCGA-DW-7963-01Z-00-DX1_3\Macrophage\234_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-DW-7963-01Z-00-DX1\\TCGA-DW-7963-01Z-00-DX1_3/Macrophage\\100.mat']
+0.5910808767951625
+.\TCGA-DW-7963-01Z-00-DX1\TCGA-DW-7963-01Z-00-DX1_3\Neutrophil\233_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-DW-7963-01Z-00-DX1\\TCGA-DW-7963-01Z-00-DX1_3/Neutrophil\\101.mat']
+0.5293779303591971
+.\TCGA-DW-7963-01Z-00-DX1\TCGA-DW-7963-01Z-00-DX1_4\Neutrophil\238_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-DW-7963-01Z-00-DX1\\TCGA-DW-7963-01Z-00-DX1_4/Neutrophil\\102.mat']
+0.7865462145272506
+.\TCGA-DW-7963-01Z-00-DX1\TCGA-DW-7963-01Z-00-DX1_5\Macrophage\244_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-DW-7963-01Z-00-DX1\\TCGA-DW-7963-01Z-00-DX1_5/Macrophage\\106.mat']
+0.48323634924711495
+.\TCGA-DW-7963-01Z-00-DX1\TCGA-DW-7963-01Z-00-DX1_5\Neutrophil\243_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-DW-7963-01Z-00-DX1\\TCGA-DW-7963-01Z-00-DX1_5/Neutrophil\\107.mat']
+0.40392706872370265
+.\TCGA-E2-A108-01Z-00-DX1\TCGA-E2-A108-01Z-00-DX1_001\Epithelial\246_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-E2-A108-01Z-00-DX1\\TCGA-E2-A108-01Z-00-DX1_001/Epithelial\\107.mat']
+0.5106173369925281
+.\TCGA-E2-A108-01Z-00-DX1\TCGA-E2-A108-01Z-00-DX1_001\Lymphocyte\247_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-E2-A108-01Z-00-DX1\\TCGA-E2-A108-01Z-00-DX1_001/Lymphocyte\\108.mat']
+0.7014510713664255
+.\TCGA-E2-A108-01Z-00-DX1\TCGA-E2-A108-01Z-00-DX1_002\Epithelial\251_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-E2-A108-01Z-00-DX1\\TCGA-E2-A108-01Z-00-DX1_002/Epithelial\\109.mat']
+0.803526092268084
+.\TCGA-E2-A108-01Z-00-DX1\TCGA-E2-A108-01Z-00-DX1_002\Lymphocyte\252_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-E2-A108-01Z-00-DX1\\TCGA-E2-A108-01Z-00-DX1_002/Lymphocyte\\110.mat']
+0.4066265060240964
+.\TCGA-E2-A108-01Z-00-DX1\TCGA-E2-A108-01Z-00-DX1_003\Epithelial\256_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-E2-A108-01Z-00-DX1\\TCGA-E2-A108-01Z-00-DX1_003/Epithelial\\111.mat']
+0.8167783403517114
+.\TCGA-E2-A108-01Z-00-DX1\TCGA-E2-A108-01Z-00-DX1_003\Lymphocyte\257_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-E2-A108-01Z-00-DX1\\TCGA-E2-A108-01Z-00-DX1_003/Lymphocyte\\112.mat']
+0.35343915343915344
+.\TCGA-E2-A108-01Z-00-DX1\TCGA-E2-A108-01Z-00-DX1_004\Macrophage\264_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-E2-A108-01Z-00-DX1\\TCGA-E2-A108-01Z-00-DX1_004/Macrophage\\115.mat']
+0.20744241553129472
+.\TCGA-E2-A108-01Z-00-DX1\TCGA-E2-A108-01Z-00-DX1_005\Epithelial\266_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-E2-A108-01Z-00-DX1\\TCGA-E2-A108-01Z-00-DX1_005/Epithelial\\116.mat']
+0.6988814545949262
+.\TCGA-E2-A108-01Z-00-DX1\TCGA-E2-A108-01Z-00-DX1_005\Lymphocyte\267_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-E2-A108-01Z-00-DX1\\TCGA-E2-A108-01Z-00-DX1_005/Lymphocyte\\117.mat']
+0.5038735520242348
+.\TCGA-EW-A6SB-01Z-00-DX1\TCGA-EW-A6SB-01Z-00-DX1_001\Epithelial\271_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-EW-A6SB-01Z-00-DX1\\TCGA-EW-A6SB-01Z-00-DX1_001/Epithelial\\118.mat']
+0.7127892322209158
+.\TCGA-EW-A6SB-01Z-00-DX1\TCGA-EW-A6SB-01Z-00-DX1_001\Lymphocyte\272_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-EW-A6SB-01Z-00-DX1\\TCGA-EW-A6SB-01Z-00-DX1_001/Lymphocyte\\119.mat']
+0.4459010974243949
+.\TCGA-EW-A6SB-01Z-00-DX1\TCGA-EW-A6SB-01Z-00-DX1_002\Epithelial\276_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-EW-A6SB-01Z-00-DX1\\TCGA-EW-A6SB-01Z-00-DX1_002/Epithelial\\120.mat']
+0.6408851701900176
+.\TCGA-EW-A6SB-01Z-00-DX1\TCGA-EW-A6SB-01Z-00-DX1_002\Lymphocyte\277_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-EW-A6SB-01Z-00-DX1\\TCGA-EW-A6SB-01Z-00-DX1_002/Lymphocyte\\121.mat']
+0.2724729040149491
+.\TCGA-EW-A6SB-01Z-00-DX1\TCGA-EW-A6SB-01Z-00-DX1_003\Macrophage\284_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-EW-A6SB-01Z-00-DX1\\TCGA-EW-A6SB-01Z-00-DX1_003/Macrophage\\124.mat']
+0.3384208982435654
+.\TCGA-EW-A6SB-01Z-00-DX1\TCGA-EW-A6SB-01Z-00-DX1_003\Neutrophil\283_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-EW-A6SB-01Z-00-DX1\\TCGA-EW-A6SB-01Z-00-DX1_003/Neutrophil\\125.mat']
+0.39636940112317737
+.\TCGA-EW-A6SB-01Z-00-DX1\TCGA-EW-A6SB-01Z-00-DX1_004\Lymphocyte\287_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-EW-A6SB-01Z-00-DX1\\TCGA-EW-A6SB-01Z-00-DX1_004/Lymphocyte\\126.mat']
+0.7847299288411053
+.\TCGA-EW-A6SB-01Z-00-DX1\TCGA-EW-A6SB-01Z-00-DX1_005\Lymphocyte\292_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-EW-A6SB-01Z-00-DX1\\TCGA-EW-A6SB-01Z-00-DX1_005/Lymphocyte\\128.mat']
+0.742420532258069
+.\TCGA-F9-A8NY-01Z-00-DX1\TCGA-F9-A8NY-01Z-00-DX1_1\Epithelial\296_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-F9-A8NY-01Z-00-DX1\\TCGA-F9-A8NY-01Z-00-DX1_1/Epithelial\\129.mat']
+0.7248891641254568
+.\TCGA-F9-A8NY-01Z-00-DX1\TCGA-F9-A8NY-01Z-00-DX1_1\Lymphocyte\297_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-F9-A8NY-01Z-00-DX1\\TCGA-F9-A8NY-01Z-00-DX1_1/Lymphocyte\\130.mat']
+0.37779849899649187
+.\TCGA-F9-A8NY-01Z-00-DX1\TCGA-F9-A8NY-01Z-00-DX1_2\Macrophage\304_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-F9-A8NY-01Z-00-DX1\\TCGA-F9-A8NY-01Z-00-DX1_2/Macrophage\\132.mat']
+0.5645569823921025
+.\TCGA-F9-A8NY-01Z-00-DX1\TCGA-F9-A8NY-01Z-00-DX1_3\Epithelial\306_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-F9-A8NY-01Z-00-DX1\\TCGA-F9-A8NY-01Z-00-DX1_3/Epithelial\\133.mat']
+0.19833570101713208
+.\TCGA-F9-A8NY-01Z-00-DX1\TCGA-F9-A8NY-01Z-00-DX1_3\Lymphocyte\307_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-F9-A8NY-01Z-00-DX1\\TCGA-F9-A8NY-01Z-00-DX1_3/Lymphocyte\\134.mat']
+0.7223220856694068
+.\TCGA-F9-A8NY-01Z-00-DX1\TCGA-F9-A8NY-01Z-00-DX1_4\Macrophage\314_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-F9-A8NY-01Z-00-DX1\\TCGA-F9-A8NY-01Z-00-DX1_4/Macrophage\\135.mat']
+0.7248445967809225
+.\TCGA-G9-6356-01Z-00-DX1\TCGA-G9-6356-01Z-00-DX1_1\Epithelial\316_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-G9-6356-01Z-00-DX1\\TCGA-G9-6356-01Z-00-DX1_1/Epithelial\\136.mat']
+0.7076058795540786
+.\TCGA-G9-6356-01Z-00-DX1\TCGA-G9-6356-01Z-00-DX1_1\Lymphocyte\317_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-G9-6356-01Z-00-DX1\\TCGA-G9-6356-01Z-00-DX1_1/Lymphocyte\\137.mat']
+0.34447972551140205
+.\TCGA-G9-6356-01Z-00-DX1\TCGA-G9-6356-01Z-00-DX1_3\Lymphocyte\322_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-G9-6356-01Z-00-DX1\\TCGA-G9-6356-01Z-00-DX1_3/Lymphocyte\\139.mat']
+0.6916954004347798
+.\TCGA-G9-6356-01Z-00-DX1\TCGA-G9-6356-01Z-00-DX1_4\Lymphocyte\327_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-G9-6356-01Z-00-DX1\\TCGA-G9-6356-01Z-00-DX1_4/Lymphocyte\\141.mat']
+0.6674621810367718
+.\TCGA-G9-6356-01Z-00-DX1\TCGA-G9-6356-01Z-00-DX1_5\Lymphocyte\332_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-G9-6356-01Z-00-DX1\\TCGA-G9-6356-01Z-00-DX1_5/Lymphocyte\\142.mat']
+0.0
+.\TCGA-G9-6356-01Z-00-DX1\TCGA-G9-6356-01Z-00-DX1_5\Neutrophil\333_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-G9-6356-01Z-00-DX1\\TCGA-G9-6356-01Z-00-DX1_5/Neutrophil\\145.mat']
+0.6223078093889303
+.\TCGA-G9-6356-01Z-00-DX1\TCGA-G9-6356-01Z-00-DX1_6\Epithelial\336_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-G9-6356-01Z-00-DX1\\TCGA-G9-6356-01Z-00-DX1_6/Epithelial\\145.mat']
+0.5838441758808419
+.\TCGA-G9-6356-01Z-00-DX1\TCGA-G9-6356-01Z-00-DX1_6\Macrophage\339_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-G9-6356-01Z-00-DX1\\TCGA-G9-6356-01Z-00-DX1_6/Macrophage\\147.mat']
+0.4104458103939163
+.\TCGA-G9-6367-01Z-00-DX1\TCGA-G9-6367-01Z-00-DX1_1\Lymphocyte\342_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-G9-6367-01Z-00-DX1\\TCGA-G9-6367-01Z-00-DX1_1/Lymphocyte\\149.mat']
+0.7754251933283804
+.\TCGA-G9-6367-01Z-00-DX1\TCGA-G9-6367-01Z-00-DX1_1\Neutrophil\343_mask.mat
+0
+.\TCGA-G9-6367-01Z-00-DX1\TCGA-G9-6367-01Z-00-DX1_2\Epithelial\346_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-G9-6367-01Z-00-DX1\\TCGA-G9-6367-01Z-00-DX1_2/Epithelial\\150.mat']
+0.7492557325014552
+.\TCGA-G9-6367-01Z-00-DX1\TCGA-G9-6367-01Z-00-DX1_2\Lymphocyte\347_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-G9-6367-01Z-00-DX1\\TCGA-G9-6367-01Z-00-DX1_2/Lymphocyte\\151.mat']
+0.2737226277372263
+.\TCGA-G9-6367-01Z-00-DX1\TCGA-G9-6367-01Z-00-DX1_3\Macrophage\354_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-G9-6367-01Z-00-DX1\\TCGA-G9-6367-01Z-00-DX1_3/Macrophage\\155.mat']
+0.5119936413958539
+.\TCGA-G9-6367-01Z-00-DX1\TCGA-G9-6367-01Z-00-DX1_4\Neutrophil\358_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-G9-6367-01Z-00-DX1\\TCGA-G9-6367-01Z-00-DX1_4/Neutrophil\\157.mat']
+0.6900896240991145
+.\TCGA-G9-6367-01Z-00-DX1\TCGA-G9-6367-01Z-00-DX1_5\Neutrophil\363_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-G9-6367-01Z-00-DX1\\TCGA-G9-6367-01Z-00-DX1_5/Neutrophil\\158.mat']
+0.7860515811910582
+.\TCGA-G9-6367-01Z-00-DX1\TCGA-G9-6367-01Z-00-DX1_6\Lymphocyte\367_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-G9-6367-01Z-00-DX1\\TCGA-G9-6367-01Z-00-DX1_6/Lymphocyte\\159.mat']
+0.7857142857142857
+.\TCGA-G9-6367-01Z-00-DX1\TCGA-G9-6367-01Z-00-DX1_6\Neutrophil\368_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-G9-6367-01Z-00-DX1\\TCGA-G9-6367-01Z-00-DX1_6/Neutrophil\\160.mat']
+0.7729698216894959
+.\TCGA-G9-6367-01Z-00-DX1\TCGA-G9-6367-01Z-00-DX1_7\Epithelial\371_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-G9-6367-01Z-00-DX1\\TCGA-G9-6367-01Z-00-DX1_7/Epithelial\\161.mat']
+0.7746335797666999
+.\TCGA-IZ-A6M9-01Z-00-DX1\TCGA-IZ-A6M9-01Z-00-DX1_1\Epithelial\391_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-IZ-A6M9-01Z-00-DX1\\TCGA-IZ-A6M9-01Z-00-DX1_1/Epithelial\\163.mat']
+0.7621676621305146
+.\TCGA-IZ-A6M9-01Z-00-DX1\TCGA-IZ-A6M9-01Z-00-DX1_1\Lymphocyte\392_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-IZ-A6M9-01Z-00-DX1\\TCGA-IZ-A6M9-01Z-00-DX1_1/Lymphocyte\\166.mat']
+0.40584019773949664
+.\TCGA-IZ-A6M9-01Z-00-DX1\TCGA-IZ-A6M9-01Z-00-DX1_2\Epithelial\396_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-IZ-A6M9-01Z-00-DX1\\TCGA-IZ-A6M9-01Z-00-DX1_2/Epithelial\\165.mat']
+0.6296231567204059
+.\TCGA-IZ-A6M9-01Z-00-DX1\TCGA-IZ-A6M9-01Z-00-DX1_2\Lymphocyte\397_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-IZ-A6M9-01Z-00-DX1\\TCGA-IZ-A6M9-01Z-00-DX1_2/Lymphocyte\\166.mat']
+0.24492778872211116
+.\TCGA-IZ-A6M9-01Z-00-DX1\TCGA-IZ-A6M9-01Z-00-DX1_3\Epithelial\401_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-IZ-A6M9-01Z-00-DX1\\TCGA-IZ-A6M9-01Z-00-DX1_3/Epithelial\\169.mat']
+0.23348474195931826
+.\TCGA-IZ-A6M9-01Z-00-DX1\TCGA-IZ-A6M9-01Z-00-DX1_3\Lymphocyte\402_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-IZ-A6M9-01Z-00-DX1\\TCGA-IZ-A6M9-01Z-00-DX1_3/Lymphocyte\\168.mat']
+0.3475051440329218
+.\TCGA-IZ-A6M9-01Z-00-DX1\TCGA-IZ-A6M9-01Z-00-DX1_3\Macrophage\404_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-IZ-A6M9-01Z-00-DX1\\TCGA-IZ-A6M9-01Z-00-DX1_3/Macrophage\\169.mat']
+0.5264808139759098
+.\TCGA-MH-A55W-01Z-00-DX1\TCGA-MH-A55W-01Z-00-DX1_1\Lymphocyte\407_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-MH-A55W-01Z-00-DX1\\TCGA-MH-A55W-01Z-00-DX1_1/Lymphocyte\\170.mat']
+0.6455922865013775
+.\TCGA-MH-A55W-01Z-00-DX1\TCGA-MH-A55W-01Z-00-DX1_1\Neutrophil\408_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-MH-A55W-01Z-00-DX1\\TCGA-MH-A55W-01Z-00-DX1_1/Neutrophil\\171.mat']
+0.3722772435385451
+.\TCGA-MH-A55W-01Z-00-DX1\TCGA-MH-A55W-01Z-00-DX1_2\Neutrophil\413_mask.mat
+0
+.\TCGA-MH-A55W-01Z-00-DX1\TCGA-MH-A55W-01Z-00-DX1_3\Lymphocyte\417_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-MH-A55W-01Z-00-DX1\\TCGA-MH-A55W-01Z-00-DX1_3/Lymphocyte\\173.mat']
+0.620592531306817
+.\TCGA-MH-A55W-01Z-00-DX1\TCGA-MH-A55W-01Z-00-DX1_3\Neutrophil\418_mask.mat
+0
+.\TCGA-MH-A55W-01Z-00-DX1\TCGA-MH-A55W-01Z-00-DX1_4\Neutrophil\423_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-MH-A55W-01Z-00-DX1\\TCGA-MH-A55W-01Z-00-DX1_4/Neutrophil\\174.mat']
+0.8892770729730866
+.\TCGA-MP-A4T7-01Z-00-DX1\TCGA-MP-A4T7-01Z-00-DX1_001\Lymphocyte\427_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-MP-A4T7-01Z-00-DX1\\TCGA-MP-A4T7-01Z-00-DX1_001/Lymphocyte\\175.mat']
+0.3443708609271523
+.\TCGA-MP-A4T7-01Z-00-DX1\TCGA-MP-A4T7-01Z-00-DX1_001\Neutrophil\428_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-MP-A4T7-01Z-00-DX1\\TCGA-MP-A4T7-01Z-00-DX1_001/Neutrophil\\176.mat']
+0.4107433940246976
+.\TCGA-MP-A4T7-01Z-00-DX1\TCGA-MP-A4T7-01Z-00-DX1_002\Epithelial\431_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-MP-A4T7-01Z-00-DX1\\TCGA-MP-A4T7-01Z-00-DX1_002/Epithelial\\177.mat']
+0.3020397795173342
+.\TCGA-MP-A4T7-01Z-00-DX1\TCGA-MP-A4T7-01Z-00-DX1_002\Macrophage\434_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-MP-A4T7-01Z-00-DX1\\TCGA-MP-A4T7-01Z-00-DX1_002/Macrophage\\179.mat']
+0.35864496327537865
+.\TCGA-MP-A4T7-01Z-00-DX1\TCGA-MP-A4T7-01Z-00-DX1_003\Lymphocyte\437_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-MP-A4T7-01Z-00-DX1\\TCGA-MP-A4T7-01Z-00-DX1_003/Lymphocyte\\182.mat']
+0.715376887995739
+.\TCGA-MP-A4T7-01Z-00-DX1\TCGA-MP-A4T7-01Z-00-DX1_004\Epithelial\441_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-MP-A4T7-01Z-00-DX1\\TCGA-MP-A4T7-01Z-00-DX1_004/Epithelial\\183.mat']
+0.682373317631641
+.\TCGA-MP-A4T7-01Z-00-DX1\TCGA-MP-A4T7-01Z-00-DX1_004\Lymphocyte\442_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-MP-A4T7-01Z-00-DX1\\TCGA-MP-A4T7-01Z-00-DX1_004/Lymphocyte\\184.mat']
+0.20671150442477876
+.\TCGA-MP-A4T7-01Z-00-DX1\TCGA-MP-A4T7-01Z-00-DX1_005\Lymphocyte\447_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-MP-A4T7-01Z-00-DX1\\TCGA-MP-A4T7-01Z-00-DX1_005/Lymphocyte\\188.mat']
+0.6248938627942213
+.\TCGA-MP-A4T7-01Z-00-DX1\TCGA-MP-A4T7-01Z-00-DX1_005\Neutrophil\448_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-MP-A4T7-01Z-00-DX1\\TCGA-MP-A4T7-01Z-00-DX1_005/Neutrophil\\187.mat']
+0.6741435905867372
+.\TCGA-VP-A87E-01Z-00-DX1\TCGA-VP-A87E-01Z-00-DX1_1\Lymphocyte\452_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-VP-A87E-01Z-00-DX1\\TCGA-VP-A87E-01Z-00-DX1_1/Lymphocyte\\188.mat']
+0.7680020814149008
+.\TCGA-VP-A87E-01Z-00-DX1\TCGA-VP-A87E-01Z-00-DX1_2\Lymphocyte\457_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-VP-A87E-01Z-00-DX1\\TCGA-VP-A87E-01Z-00-DX1_2/Lymphocyte\\189.mat']
+0.8342898530846269
+.\TCGA-VP-A87E-01Z-00-DX1\TCGA-VP-A87E-01Z-00-DX1_3\Neutrophil\463_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-VP-A87E-01Z-00-DX1\\TCGA-VP-A87E-01Z-00-DX1_3/Neutrophil\\194.mat']
+0.8081404112149857
+.\TCGA-VP-A87E-01Z-00-DX1\TCGA-VP-A87E-01Z-00-DX1_4\Epithelial\466_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-VP-A87E-01Z-00-DX1\\TCGA-VP-A87E-01Z-00-DX1_4/Epithelial\\193.mat']
+0.6802400305269343
+.\TCGA-VP-A87E-01Z-00-DX1\TCGA-VP-A87E-01Z-00-DX1_4\Lymphocyte\467_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-VP-A87E-01Z-00-DX1\\TCGA-VP-A87E-01Z-00-DX1_4/Lymphocyte\\194.mat']
+0.43884527015594976
+.\TCGA-VP-A87E-01Z-00-DX1\TCGA-VP-A87E-01Z-00-DX1_4\Macrophage\469_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-VP-A87E-01Z-00-DX1\\TCGA-VP-A87E-01Z-00-DX1_4/Macrophage\\195.mat']
+0.5336805828268908
+.\TCGA-VP-A87E-01Z-00-DX1\TCGA-VP-A87E-01Z-00-DX1_4\Neutrophil\468_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-VP-A87E-01Z-00-DX1\\TCGA-VP-A87E-01Z-00-DX1_4/Neutrophil\\196.mat']
+0.4198151380977781
+.\TCGA-VP-A87E-01Z-00-DX1\TCGA-VP-A87E-01Z-00-DX1_5\Epithelial\471_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-VP-A87E-01Z-00-DX1\\TCGA-VP-A87E-01Z-00-DX1_5/Epithelial\\197.mat']
+0.7892797562351281
+.\TCGA-VP-A87E-01Z-00-DX1\TCGA-VP-A87E-01Z-00-DX1_5\Lymphocyte\472_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-VP-A87E-01Z-00-DX1\\TCGA-VP-A87E-01Z-00-DX1_5/Lymphocyte\\198.mat']
+0.4579821115014102
+.\TCGA-VP-A87E-01Z-00-DX1\TCGA-VP-A87E-01Z-00-DX1_5\Neutrophil\473_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-VP-A87E-01Z-00-DX1\\TCGA-VP-A87E-01Z-00-DX1_5/Neutrophil\\200.mat']
+0.5124223602484472
+.\TCGA-VP-A87H-01Z-00-DX1\TCGA-VP-A87H-01Z-00-DX1_1\Lymphocyte\477_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-VP-A87H-01Z-00-DX1\\TCGA-VP-A87H-01Z-00-DX1_1/Lymphocyte\\202.mat']
+0.77800784032371
+.\TCGA-VP-A87H-01Z-00-DX1\TCGA-VP-A87H-01Z-00-DX1_2\Epithelial\481_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-VP-A87H-01Z-00-DX1\\TCGA-VP-A87H-01Z-00-DX1_2/Epithelial\\203.mat']
+0.8072493775598629
+.\TCGA-VP-A87H-01Z-00-DX1\TCGA-VP-A87H-01Z-00-DX1_2\Lymphocyte\482_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-VP-A87H-01Z-00-DX1\\TCGA-VP-A87H-01Z-00-DX1_2/Lymphocyte\\204.mat']
+0.16094627700378608
+.\TCGA-VP-A87H-01Z-00-DX1\TCGA-VP-A87H-01Z-00-DX1_2\Macrophage\484_mask.mat
+0
+.\TCGA-VP-A87H-01Z-00-DX1\TCGA-VP-A87H-01Z-00-DX1_5\Lymphocyte\487_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-VP-A87H-01Z-00-DX1\\TCGA-VP-A87H-01Z-00-DX1_5/Lymphocyte\\206.mat']
+0.7457941328860541
+.\TCGA-VP-A87H-01Z-00-DX1\TCGA-VP-A87H-01Z-00-DX1_5\Neutrophil\488_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-VP-A87H-01Z-00-DX1\\TCGA-VP-A87H-01Z-00-DX1_5/Neutrophil\\207.mat']
+0.7094846582388008
+.\TCGA-VP-A87H-01Z-00-DX1\TCGA-VP-A87H-01Z-00-DX1_6\Macrophage\494_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-VP-A87H-01Z-00-DX1\\TCGA-VP-A87H-01Z-00-DX1_6/Macrophage\\209.mat']
+0.4954353768477565
+.\TCGA-X4-A8KS-01Z-00-DX3\TCGA-X4-A8KS-01Z-00-DX3_1\Lymphocyte\497_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-X4-A8KS-01Z-00-DX3\\TCGA-X4-A8KS-01Z-00-DX3_1/Lymphocyte\\212.mat']
+0.7473242264127758
+.\TCGA-YL-A9WL-01Z-00-DX1\TCGA-YL-A9WL-01Z-00-DX1_1\Epithelial\501_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-YL-A9WL-01Z-00-DX1\\TCGA-YL-A9WL-01Z-00-DX1_1/Epithelial\\213.mat']
+0.7788086065133644
+.\TCGA-YL-A9WL-01Z-00-DX1\TCGA-YL-A9WL-01Z-00-DX1_1\Lymphocyte\502_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-YL-A9WL-01Z-00-DX1\\TCGA-YL-A9WL-01Z-00-DX1_1/Lymphocyte\\214.mat']
+0.2036353608007031
+.\TCGA-YL-A9WL-01Z-00-DX1\TCGA-YL-A9WL-01Z-00-DX1_2\Epithelial\506_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-YL-A9WL-01Z-00-DX1\\TCGA-YL-A9WL-01Z-00-DX1_2/Epithelial\\212.mat']
+0.41037965105721663
+.\TCGA-YL-A9WL-01Z-00-DX1\TCGA-YL-A9WL-01Z-00-DX1_2\Macrophage\509_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-YL-A9WL-01Z-00-DX1\\TCGA-YL-A9WL-01Z-00-DX1_2/Macrophage\\217.mat']
+0.6027425111943031
+.\TCGA-YL-A9WL-01Z-00-DX1\TCGA-YL-A9WL-01Z-00-DX1_3\Neutrophil\513_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-YL-A9WL-01Z-00-DX1\\TCGA-YL-A9WL-01Z-00-DX1_3/Neutrophil\\216.mat']
+0.7984400752154466
+.\TCGA-YL-A9WL-01Z-00-DX1\TCGA-YL-A9WL-01Z-00-DX1_4\Epithelial\516_mask.mat
+['D:\\Personal improvisation\\IITB\\MoNuSAC\\Submissions\\Mask_files\\Predicted_updated_masks\\SJTU_426/.\\TCGA-YL-A9WL-01Z-00-DX1\\TCGA-YL-A9WL-01Z-00-DX1_4/Epithelial\\221.mat']
+0.7683484970348357
