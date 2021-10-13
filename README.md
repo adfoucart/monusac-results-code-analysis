@@ -4,7 +4,7 @@ These are the supplementary materials for the following technical report:
 
 **Adrien Foucart, Olivier Debeir, Christine Decaestecker. 
 Analysis of the MoNuSAC 2020 challenge evaluation and results: implementation errors. September, 2021.**
-doi: [10.5281/zenodo.5520872](http://doi.org/10.5281/zenodo.5520872)
+doi: [10.5281/zenodo.5520872](https://doi.org/10.5281/zenodo.5520871)
 
 All the results from the report should be reproducible using this code and the publicly released MoNuSAC2020 test set annotations & "top 5 teams" predictions maps, available here: https://monusac-2020.grand-challenge.org/Data/
 
