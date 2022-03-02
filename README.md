@@ -3,8 +3,7 @@
 These are the supplementary materials for the following publication:
 
 **Adrien Foucart, Olivier Debeir, Christine Decaestecker. 
-Analysis of the MoNuSAC 2020 challenge evaluation and results: metric implementation errors. October, 2021.**
-(Commented article accepted in IEEE Trans. on Med. Im., will be published soon. Original challenge article available here: https://doi.org/10.1109/TMI.2021.3085712)
+Analysis of the MoNuSAC 2020 challenge evaluation and results: metric implementation errors. *IEEE Transactions on Medical Imaging*, 2022. https://doi.org/10.1109/TMI.2022.3156023.** (Comment on the MoNuSAC 2020 article available here: https://doi.org/10.1109/TMI.2021.3085712)
 
 All the results from the report should be reproducible using this code and the publicly released MoNuSAC2020 test set annotations & "top 5 teams" predictions maps, available here: https://monusac-2020.grand-challenge.org/Data/
 
